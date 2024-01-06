@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Midhil's GitHub stats]([https://github-readme-stats.vercel.app/api?username=midhilkari](https://github-readme-stats.vercel.app/api?username=midhilkari&show_icons=true&theme=dark])(https://github.com/midhilkari/github-readme
+[https://github-readme-stats.vercel.app/api?username=midhilkari&show_icons=true&theme=dark](https://github-readme-stats.vercel.app/api?username=midhilkari&show_icons=true&theme=dark)
 
 <!--
 **midhilkari/midhilkari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
