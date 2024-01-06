@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-![Midhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=midhilkari&show_icons=true&theme=dark&show=reviews,prs_merged,prs_merged_percentage)
+![Midhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=midhilkari&show_icons=true&theme=dark&show=reviews,prs_merged,prs_merged_percentage&hide_border=true)<br/>
+![Midhil's GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=midhilkari&theme=dark&hide_border=true)
 
 <!--
 **midhilkari/midhilkari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
